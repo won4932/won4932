@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-FAFAFA?style=plastic&logo=Notion&logoColor=#000000"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-0E1128?style=plastic&logo=Notion&logoColor=#000000"/></a>
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Velog&logoColor=#20C997"/></a>
 
