@@ -11,7 +11,10 @@ It's Me
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Velog&logoColor=#20C997"/></a> <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Gmail&logoColor=#EA4335"/></a>
 
+Tech Stack
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
 
 
 
