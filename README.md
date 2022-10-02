@@ -14,7 +14,7 @@ It's Me
 Tech Stack
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=won4932&show_icons=true&theme=midnight-purple)
 
 
 
