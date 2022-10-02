@@ -15,7 +15,7 @@ Tech Stack
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=won4932&show_icons=true&theme=midnight-purple)
-
+![Anurag's GitHub stats](https://github-readme-repo-card.vercel.app/api?username=won4932&show_icons=true&theme=midnight-purple)
 
 
 
