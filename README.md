@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=TaeSeong%20Won&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=TaeSeongWon&fontSize=70)
 
 
 ### Hi there 👋
 
+
+It's Me
 
 <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-0E1128?style=plastic&logo=Notion&logoColor=#000000"/></a> <a href
