@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=TaeSeong%20Won&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=TaeSeong%20Won&fontSize=70)
 
 
 ### Hi there 👋
