@@ -1,4 +1,5 @@
-![Spin-1s-200px](https://user-images.githubusercontent.com/52207105/193545962-93ee32e4-4654-4faf-83f2-253e2d068e7e.gif)
+
+![Spin-1s-200px (1)](https://user-images.githubusercontent.com/52207105/193546117-1787a074-3037-46e2-baf3-721ee0089db6.gif)
 
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=TaeSeongWon&fontSize=70)
