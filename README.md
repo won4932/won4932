@@ -11,14 +11,16 @@
 
 ### Hi there 👋
 
-It's Me
-
+<img src="https://img.shields.io/badge/About.me-000000?style=plastic&logo=Notion&logoColor=#000000"/>  
+# It's Me
+<img src="https://img.shields.io/badge/About.me-000000?style=plastic&logo=Notion&logoColor=#000000"/>
+ 
 <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=#000000"/></a> <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=flat&logo=Velog&logoColor=#20C997"/></a> <a href
    ="[버튼을 눌렀을 때 이동할 링크](https://velog.io/@won4932)" target="_blank"><img src="https://img.shields.io/badge/won4932@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
 
-Tech Stack
+# Tech Stack
 
 <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-239120.svg?style=plastic&logo=Notion&logoColor=#000000"/></a> <a href
@@ -38,7 +40,7 @@ Tech Stack
   <h3 align="center">📌✨productive-box</h3>
 </p>
 
-</
+/>
 
 
 
