@@ -3,7 +3,7 @@
 ![Spin-1s-200px (1)](https://user-images.githubusercontent.com/52207105/193546117-1787a074-3037-46e2-baf3-721ee0089db6.gif)
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=TaeSeongWon&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&Weight=auto&section=header&text=TaeSeongWon&fontSize=70)
 
 
 ### Hi there 👋
@@ -13,7 +13,7 @@ It's Me
 <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=#000000"/></a> <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=flat&logo=Velog&logoColor=#20C997"/></a> <a href
-   ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/won4932@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
+   ="[버튼을 눌렀을 때 이동할 링크](https://velog.io/@won4932)" target="_blank"><img src="https://img.shields.io/badge/won4932@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
 
 Tech Stack
 
