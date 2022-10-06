@@ -11,7 +11,7 @@
 
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge?style=plastic&logo=About.me&logoColor=#000000"/>  
+<img src="https://img.shields.io/badge/000000?style=plastic&logo=About.me&logoColor=#000000"/>  
 # It's Me
 <img src="https://img.shields.io/badge/About.me-000000?style=plastic&logo=About.me&logoColor=#000000"/>
  
