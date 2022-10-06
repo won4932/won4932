@@ -24,8 +24,8 @@
 
 <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-239120.svg?style=plastic&logo=Notion&logoColor=#000000"/></a> <a href
-   ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Velog&logoColor=#20C997"/></a> <a href
-   ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/won4932@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=000000"/></a>
+   ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Velog&logoColor=#20C997"/></a> <a href
+   ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring-EA4335?style=flat-square&logo=Gmail&logoColor=000000"/></a>
    
    https://img.shields.io/amo/v/dustman?color=435&logo=55&logoColor=555
 
