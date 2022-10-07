@@ -10,6 +10,8 @@
 
 ## 𝓲𝓽'𝓼 𝓜𝓮
  
+ <a href
+   ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=#000000"/></a>
 <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=plastic&logo=Notion&logoColor=#000000"/></a> <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Velog&logoColor=#20C997"/></a> <a href
@@ -18,7 +20,7 @@
 # Tech Stack
 
 <a href
-   ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-239120.svg?style=plastic&logo=Notion&logoColor=#000000"/></a> <a href
+   ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-239120.svg?style=plastic&logo=Notion&logoColor=#A100FF"/></a> <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Velog&logoColor=#20C997"/></a> <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring-EA4335?style=flat-square&logo=Gmail&logoColor=000000"/></a>
    
