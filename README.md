@@ -9,7 +9,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&Weight=auto&section=header&text=TaeSeongWon&fontSize=70)
 
 
-### Hi there 👋
+## Hi there 👋
+
+𝓓𝓸 𝓷𝓸𝓽 𝓽𝓻𝔂 𝓽𝓸 𝓫𝓮 𝓸𝓻𝓲𝓰𝓲𝓷𝓪𝓵, 𝓳𝓾𝓼𝓽 𝓽𝓻𝔂 𝓽𝓸 𝓫𝓮 𝓰𝓸𝓸𝓭.
 
 <img src="https://img.shields.io/badge/ -000000?style=plastic&logo=About.me&logoColor=#000000"/>  
 # It's Me
