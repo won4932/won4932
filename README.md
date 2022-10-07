@@ -11,11 +11,7 @@
 
 ## Hi there 👋
 
-𝓓𝓸 𝓷𝓸𝓽 𝓽𝓻𝔂 𝓽𝓸 𝓫𝓮 𝓸𝓻𝓲𝓰𝓲𝓷𝓪𝓵, 𝓳𝓾𝓼𝓽 𝓽𝓻𝔂 𝓽𝓸 𝓫𝓮 𝓰𝓸𝓸𝓭.
-
-<img src="https://img.shields.io/badge/ -000000?style=plastic&logo=About.me&logoColor=#000000"/>  
-# It's Me
-<img src="https://img.shields.io/badge/About.me-000000?style=plastic&logo=About.me&logoColor=#000000"/>
+# 𝓲𝓽'𝓼 𝓜𝓮
  
 <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=#000000"/></a> <a href
