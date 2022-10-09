@@ -8,14 +8,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&Weight=auto&section=header&text=TaeSeongWon&fontSize=70)
 
-## 𝓲𝓽'𝓼 𝓜𝓮
+# 𝓲𝓽'𝓼 𝓜𝓮
  
 <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-41454A?style=plastic&logo=Notion&logoColor=#000000"/></a> <a href
    ="https://velog.io/@won4932" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Velog&logoColor=#20C997"/></a> <a href
    ="won4932@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
 
-# Tech Stack
+# 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜
 
 <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-239120.svg?style=plastic&logo=Notion&logoColor=#A100FF"/></a> <a href
