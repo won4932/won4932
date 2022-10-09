@@ -13,7 +13,7 @@
 <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-41454A?style=plastic&logo=Notion&logoColor=#000000"/></a> <a href
    ="https://velog.io/@won4932" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Velog&logoColor=#20C997"/></a> <a href
-   ="[버튼을 눌렀을 때 이동할 링크](https://velog.io/@won4932)" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
+   ="won4932@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
 
 # Tech Stack
 
