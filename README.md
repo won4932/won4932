@@ -23,9 +23,9 @@
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring-EA4335?style=flat-square&logo=Gmail&logoColor=000000"/></a>
    
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=won4932&show_icons=true&theme=midnight-purple)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=won4932&show_icons=true&theme=midnight-purple&count_private=true)
-
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <p align="center">
   <a href="http://lovera.maxam.now.sh/">
     <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
