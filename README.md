@@ -24,7 +24,7 @@
    
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=won4932&show_icons=true&theme=midnight-purple&count_private=true)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
  
 <p align="center">
   <a href="http://lovera.maxam.now.sh/">
