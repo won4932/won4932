@@ -24,8 +24,7 @@
    
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=won4932&show_icons=true&theme=midnight-purple)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=won4932&show_icons=false&theme=midnight-purple)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=won4932&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=won4932&show_icons=true&theme=midnight-purple&count_private=true)
 
 <p align="center">
   <a href="http://lovera.maxam.now.sh/">
