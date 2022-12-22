@@ -30,7 +30,7 @@
 />
 
 
-<img src="http://ghchart.rshah.org/won4932"/>
+<img src="http://ghchart.rshah.org/0000FF/won4932"/>
 
 
 
