@@ -1,16 +1,28 @@
 
 <div align="center">
-
-
+ 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&Weight=auto&section=header&text=TaeSeongWon&fontSize=70)
 
-# 📌 𝓲𝓽'𝓼 𝓜𝓮
+</div>
+
+# 📌 Contact
+
+<div>
+ 
+> [📧 won4932@naver.com](https://www.notion.so/Company-c158336cf85e4b4a9a83da6db2596b85?pvs=21)
+> 
+> 
+> [🔗 https://velog.io/@won4932/posts](https://velog.io/@won4932/posts)
+> 
+> [👾 https://github.com/won4932](https://github.com/won4932)
+>
  
 <a href
    ="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-41454A?style=plastic&logo=Notion&logoColor=#000000"/></a> <a href
    ="https://velog.io/@won4932" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Velog&logoColor=#20C997"/></a> <a href
    ="won4932@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
 
+</div>
 # 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜
 
 <a href
